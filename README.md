@@ -1,1 +1,1 @@
-# react-basic-state-solution
+[Link to Lab Readme](https://github.com/hoc-labs/react-basic-state/blob/main/README.md)
